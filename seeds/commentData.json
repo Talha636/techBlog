@@ -1,9 +1,9 @@
 [
     {
-      "description": "This is my first comment."
+      "comment": "This is my first comment."
     },
     {
-      "description": "This is my second comment."
+      "comment": "This is my second comment."
     }
   ]
   
